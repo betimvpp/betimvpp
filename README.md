@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% heigth=80% src="https://github.com/betimvpp/betimvpp/blob/main/DESENVOLVEDOR%20FRONT%20END.png" />
+<img align="center" style="margin-bottom:100px" width=100% heigth=80% src="https://github.com/betimvpp/betimvpp/blob/main/DESENVOLVEDOR%20FRONT%20END%20(1).png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Olá, me chamo Roberto Junior e sou um Desenvolvedor Front End React.
