@@ -1,14 +1,10 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/betimvpp/betimvpp/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">Olá, me chamo Roberto Junior e sou um Desenvolvedor Front End React.
 
 Estou no mercado de desenvolvimento de software desde abril de 2022, e busco impactar nos projetos que atuo sempre trazendo uma interação e experiência prazerosa para o usuário.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=betimvpp&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-betimvpp.vercel.app/api/top-langs/?username=betimvpp&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-five-iota-48.vercel.app//api/top-langs/?username=betimvpp&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -82,7 +78,7 @@ Estou no mercado de desenvolvimento de software desde abril de 2022, e busco imp
 </a>
 <a href = "mailto:contato.betimvpp@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/roberto-junior-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://vercel.com/@betimvpp" target="_blank"><img src="https://img.shields.io/badge/-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white"  target="_blank"></a> 
+<a href="https://vercel.com/betimvpp" target="_blank"><img src="https://img.shields.io/badge/-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
