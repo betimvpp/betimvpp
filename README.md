@@ -1,3 +1,6 @@
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/betimvpp/betimvpp/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
+
 <p align="center">Olá, me chamo Roberto Junior e sou um Desenvolvedor Front End React.
 
 Estou no mercado de desenvolvimento de software desde abril de 2022, e busco impactar nos projetos que atuo sempre trazendo uma interação e experiência prazerosa para o usuário.</p>&nbsp;
