@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/betimvpp/betimvpp/blob/main/Anime_Pastel_Dream_PLAY_A_YOUNG_MAN_DEVELOPING_SOFTWARE_WITH_A_0.jpg" />
+<img align="center" style="margin-bottom:100px" width=100% heigth=80% src="https://github.com/betimvpp/betimvpp/blob/main/Anime_Pastel_Dream_PLAY_A_YOUNG_MAN_DEVELOPING_SOFTWARE_WITH_A_0.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Olá, me chamo Roberto Junior e sou um Desenvolvedor Front End React.
